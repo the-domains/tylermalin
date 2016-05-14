@@ -1,0 +1,14 @@
+layout_spectrum: 0.7205231
+color:
+  saturation: 0.5340425
+  lightness: 0.8319149
+  brandStrength: 0.8076303
+  brandColors:
+    - '#1C1702'
+    - '#FFFF00'
+    - '#735905'
+    - '#DEAA01'
+    - '#A68002'
+  rhythmicContrast: 0.8883059
+typography_spectrum: 0
+name: Tylermalin
